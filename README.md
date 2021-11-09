@@ -8,3 +8,27 @@ Agro-IT app will allow us to connect these people and support growing rural busi
 </center></p> 
 
 ## Features with Screenshots
+
+Main menu of the app and Weather Forcast: <br>
+
+![mainmenu](/samples/mainmenu.PNG)<br>
+
+Shop menu sample: <br>
+
+![HOME](/samples/homepage.PNG)<br>
+
+Listed farms: <br>
+
+![farmlist](/samples/farmlist.PNG)<br>
+
+Chatbot assistant: <br>
+
+![chatbot](/samples/chatbot.PNG)<br>
+
+Register farm-house with agro-IT (from farmer's) side: <br>
+
+![capture](/samples/Capture.PNG)<br>
+
+Scheduled visits of visitor with farm, crop-type: <br>
+
+![capture2](/samples/Capture2.PNG)<br>
