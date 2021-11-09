@@ -23,13 +23,15 @@ Listed farms: <br>
 
 Chatbot assistant: <br>
 
-![chatbot](/samples/chatbot.PNG)<br>
+![chatbot](/samples/chatbot.PNG) <br>
 
-Register farm-house with agro-IT (from farmer's) side: <br>
 
-![capture](/samples/Capture.PNG)<br>
+Register farmhouse with agro-IT (from farmer's) side:  <br>
+  ![capture](/samples/Capture.PNG)<br>
+
 
 My Listed Forms and Crop Calendar: <br>
+
 
 ![capture2](/samples/Capture2.PNG)<br>
 
