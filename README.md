@@ -13,7 +13,7 @@ Main menu of the app and Weather Forcast: <br>
 
 ![mainmenu](/samples/mainmenu.PNG)<br>
 
-Shop menu sample: <br>
+Shop menu: <br>
 
 ![HOME](/samples/homepage.PNG)<br>
 
@@ -29,6 +29,10 @@ Register farm-house with agro-IT (from farmer's) side: <br>
 
 ![capture](/samples/Capture.PNG)<br>
 
-Scheduled visits of visitor with farm, crop-type: <br>
+My Listed Forms and Crop Calendar: <br>
 
 ![capture2](/samples/Capture2.PNG)<br>
+
+
+App mainly uses Flutter as Frontend and Firebase as backend
+More improvements can be made such as adding payments such as razorpay to app.
