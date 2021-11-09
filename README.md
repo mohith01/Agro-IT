@@ -34,5 +34,4 @@ My Listed Forms and Crop Calendar: <br>
 ![capture2](/samples/Capture2.PNG)<br>
 
 
-App mainly uses Flutter as Frontend and Firebase as backend
-More improvements can be made such as adding payments such as razorpay to app.
+----
